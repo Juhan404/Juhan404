@@ -1,6 +1,6 @@
 <h1 align="center">Juhan404 aka EmHoang666</h1>
 
-<img align="right" alt="Coding" width="400" src="https://gamek.mediacdn.vn/zoom/600_315/2016/6-1474109930503.gif">
+<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/564x/81/a6/a2/81a6a25b9c2f8754f9d438d91bd74842.jpg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
