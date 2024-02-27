@@ -1,5 +1,5 @@
 <h1 align="center">Juhan404 aka EmHoang666</h1>
-
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/564x/1d/fa/af/1dfaafc95f751c2f91a199bdea988a4e.jpg">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/juhan404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juhan404" height="30" width="40" /></a>
