@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/564x/1d/fa/af/1dfaafc95f751c2f91a199bdea988a4e.jpg">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/juhan404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juhan404" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/juhan404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/Juhan404" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/Juhan404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/juhan404" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/phamchinhhoang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="juhan404" height="30" width="40" /></a>
 </p>
